@@ -13,8 +13,11 @@ Welcome to the Sorting Visualizer! 🚀 This interactive web application lets yo
 # 📂 Project Structure
 
 📁 Sorting Visualizer
+
 ├── 📄 index.html   # Main structure of the webpage
+
 ├── 🎨 styles.css   # Styling for UI components
+
 ├── 📜 script.js    # Logic for sorting and visualization
 
 # 🚀 Getting Started
