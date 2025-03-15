@@ -26,16 +26,16 @@ Welcome to the Sorting Visualizer! 🚀 This interactive web application lets yo
 
 # 🚀 Getting Started
 
-# 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 
 git clone https://github.com/your-username/sorting-visualizer.git
 cd sorting-visualizer
 
-# 2️⃣ Open in Browser
+ 2️⃣ Open in Browser
 
 Simply open index.html in any modern web browser.
 
-# 3️⃣ Customize & Play 🎨
+ 3️⃣ Customize & Play 🎨
 
 Select a sorting algorithm.
 
