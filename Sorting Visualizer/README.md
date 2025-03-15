@@ -5,9 +5,13 @@ Welcome to the Sorting Visualizer! 🚀 This interactive web application lets yo
 # 🎯 Features
 
 ✅ Choose Your Sorting Algorithm: Selection Sort, Bubble Sort, and Insertion Sort.
+
 ✅ Adjust Sorting Speed: Choose from Very Slow, Slow, Medium, or Fast.
+
 ✅ Custom or Random Array: Input your own numbers or generate a random array.
+
 ✅ Size and Color Customization: Modify array size and bar colors for better visualization.
+
 ✅ Performance Insights: View the number of operations taken by each algorithm.
 
 # 📂 Project Structure
