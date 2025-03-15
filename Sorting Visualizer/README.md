@@ -54,11 +54,14 @@ JavaScript – For sorting logic and animations
 # 📌 Future Improvements
 
 🔹 Add Merge Sort, Quick Sort, and Heap Sort.
+
 🔹 Implement React.js for enhanced visualization.
+
 🔹 Include step-by-step explanations for each sorting step.
 
 # 🏆 Contributing
 
 Feel free to fork, contribute, or report issues. Your contributions are always welcome! 😊
+
 
 # 🚀 Happy Sorting! 🎉
